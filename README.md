@@ -324,7 +324,7 @@ MIT License - see LICENSE file for details.
 
 ## Changelog
 
-### v1.1.0
+### v1.2.0
 - ✅ **MDN Compatibility** - Added support for native `Element.setHTML()` and `ShadowRoot.setHTML()` APIs
 - ✅ **Enhanced Configuration** - Support for MDN-compatible `elements` and `removeElements` options
 - ✅ **New Methods** - Added `setHTML()`, `setHTMLUnsafe()`, and `removeUnsafe()` methods
